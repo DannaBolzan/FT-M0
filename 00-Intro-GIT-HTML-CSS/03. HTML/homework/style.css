@@ -1,0 +1,9 @@
+    /*<!-- acá van las reglas -->*/
+      h1{color: rgb(80, 106, 255);}
+        img{width:400PX}
+        #spanId {margin: 50px; }
+        #thirdDiv {width: 500px; 
+            height: 600px; 
+            background-color:#FF0000;
+            padding: 50px; 
+            border: 2px solid black}
